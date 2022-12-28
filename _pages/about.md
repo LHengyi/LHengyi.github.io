@@ -37,8 +37,8 @@ My research interests include sensor-fusion based indoor localization, autonmous
 Ruochen Jiao<sup>*</sup>, **Hengyi Liang**<sup>*</sup>, Takami Sato, Junjie Shen, Qi Alfred Chen, Qi Zhu
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=MgfmJe8AAAAJ&sortby=pubdate&authuser=1&citation_for_view=MgfmJe8AAAAJ:roLk4NBRz8UC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- analyzed the impact of dirty road patch attack across the ADAS pipeline, and developed a method to quantitatively measure the perception uncertainty under attack.
-- conducted experiments on both public dataset and LGSVL. The results demonstrate that our approach can significantly improve the system robustness over the original OpenPilot implementation under adversarial attacks, reducing lateral deviation by 55% ~ 90%.
+- Analyze the impact of dirty road patch attack across the ADAS pipeline, and developed a method to quantitatively measure the perception uncertainty under attack.
+- Conduct experiments on both public dataset and LGSVL. The results demonstrate that our approach can significantly improve the system robustness over the original OpenPilot implementation under adversarial attacks, reducing lateral deviation by 55% ~ 90%.
 </div>
 </div>
 
